@@ -1,5 +1,4 @@
 #!/bin/zsh
-
 if [ -z "$1" ]; then
     echo "usage: setup.sh <env_type>"
     echo "  env_type: personal or work"

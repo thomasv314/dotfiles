@@ -89,3 +89,7 @@ compdef k='kubectl'
 
 # uncomment below to profile
 # zprof
+#
+export TF_VAR_ssh_key_name="i-dont-have-an-ssh-key"
+
+eval "$(rbenv init -)"

@@ -1,3 +1,5 @@
 .config/direnv/allow/
 .config/pgcli/log
 *private*
+machine/tv-sy-mbp.local
+foo.txt
